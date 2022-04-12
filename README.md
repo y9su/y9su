@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://flyclipart.com/thumb2/image-515278.png" width="200" height="200">
+	<img src="https://image.pngaaa.com/141/1819141-middle.png" width="200" height="200">
 </p>
 
 <p align="center"><br>
