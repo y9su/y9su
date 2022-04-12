@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://images.fineartamerica.com/images/artworkimages/medium/3/1-juice-wrld-999-original-merch-sania-wadika-transparent.png" width="200" height="130">
+	<img src="https://lh3.googleusercontent.com/Ubfiv37DHfNppkv8cCqh3Q2gmrKQU_e4-LPvT1-ijL-_0JrTDmVQ1OT07jwbgSNZwSJsb5iuyKs9wvW2yNDXjI_GdSsVC9LB4IXH=s0" width="200" height="130">
 </p>
 
 <p align="center"><br>
