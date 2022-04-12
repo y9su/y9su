@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://image.pngaaa.com/141/1819141-middle.png" width="200" height="200">
+	<img src="https://www.vhv.rs/dpng/d/484-4847985_sword-art-png-file-kirito-and-asuna-png.png" width="200" height="200">
 </p>
 
 <p align="center"><br>
