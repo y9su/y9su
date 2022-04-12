@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://e7.pngegg.com/pngimages/625/324/png-clipart-asuna-kirito-leafa-sinon-lisbeth-asuna-cartoon-fictional-character.png" width="200" height="200">
+	<img src="https://www.dlf.pt/dfpng/middlepng/349-3498134_asuna-sao-memory-defrag-png-transparent-png.png" width="200" height="200">
 </p>
 
 <p align="center"><br>
