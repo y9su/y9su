@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://www.dlf.pt/dfpng/middlepng/589-5890703_sao-md-kirito-png-transparent-png.png" width="250" height="250">
+	<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/584ff34e-7b39-4278-8f63-eeacc6bdc4a0/d5qyzq4-ba9906bc-1266-4fb4-9257-4681d26e6faa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4NGZmMzRlLTdiMzktNDI3OC04ZjYzLWVlYWNjNmJkYzRhMFwvZDVxeXpxNC1iYTk5MDZiYy0xMjY2LTRmYjQtOTI1Ny00NjgxZDI2ZTZmYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UFVCyYZl3iSMHkYG-KJnUMZEBO8Cb8WGRzL5Je4tKqk" width="250" height="250">
 </p>
 
 <p align="center"><br>
