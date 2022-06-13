@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://static.wikia.nocookie.net/saointegralfactor_gamepedia_en/images/3/32/Kirito_BF.png/revision/latest/scale-to-width-down/1024?cb=20210129014023" width="250" height="250">
+	<img src="https://flyclipart.com/thumb2/sword-art-online-sword-908850.png" width="250" height="250">
 </p>
 
 <p align="center"><br>
