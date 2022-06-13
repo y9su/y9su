@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://flyclipart.com/thumb2/sword-art-online-sword-908850.png" width="250" height="250">
+	<img src="https://www.dlf.pt/dfpng/middlepng/589-5890703_sao-md-kirito-png-transparent-png.png" width="250" height="250">
 </p>
 
 <p align="center"><br>
