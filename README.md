@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://f6.ftipng.com/pngimgs/other/22893/png-clipart-Have-A-Transparent-Kirito-Asuna-3-Asuna-And-Kirito_thumbnail.png" width="250" height="250">
+	<img src="https://freepngimg.com/thumb/asuna/24546-9-asuna-transparent-background.png" width="250" height="250">
 </p>
 
 <p align="center"><br>
