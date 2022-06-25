@@ -21,7 +21,7 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y9su&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 
-</p>
 <a href="https://visitorbadge.io/status?path=y9su"><img src="https://api.visitorbadge.io/api/visitors?path=y9su&labelColor=%23697689&countColor=%23d9e3f0&style=plastic" /></a>
+</p>
 
 
