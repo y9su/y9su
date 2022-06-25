@@ -20,7 +20,8 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=y9su&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y9su&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-	<a href="https://visitorbadge.io/status?path=y9su"><img src="https://api.visitorbadge.io/api/visitors?path=y9su&labelColor=%23697689&countColor=%23d9e3f0&style=plastic" /></a>
-
 
 </p>
+<a href="https://visitorbadge.io/status?path=y9su"><img src="https://api.visitorbadge.io/api/visitors?path=y9su&labelColor=%23697689&countColor=%23d9e3f0&style=plastic" /></a>
+
+
