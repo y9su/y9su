@@ -12,8 +12,8 @@ credit to KanekiWeb for making this, I do not take credit at all
      d###P            N####p         Username: y9su
      "^^"              T####         Alias: y9su, yasu
                        d###P         Discord ID: 869395298626187324
-                    _g###@F          Website: y9suland.com
-                 _gN##@P             
+                    _g####F          Website: y9suland.com
+                 _gN###P             
                gN###F"               999@archlinux
               d###F                  -----------------
              0###F                   Frontend: 2/10 💻
