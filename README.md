@@ -1,32 +1,38 @@
-<p align='center'>
-  <b>Hi 👋, I'm yasu</b><br>
-	<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/584ff34e-7b39-4278-8f63-eeacc6bdc4a0/d5qyzq4-ba9906bc-1266-4fb4-9257-4681d26e6faa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4NGZmMzRlLTdiMzktNDI3OC04ZjYzLWVlYWNjNmJkYzRhMFwvZDVxeXpxNC1iYTk5MDZiYy0xMjY2LTRmYjQtOTI1Ny00NjgxZDI2ZTZmYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UFVCyYZl3iSMHkYG-KJnUMZEBO8Cb8WGRzL5Je4tKqk" width="250" height="250">
-</p>
+<!-- 
 
-<p align="center"><br>
-  <a href="https://github.com/y9su">
-     </a>
-</p>
+credit to KanekiWeb for making this, I do not take credit at all
 
-<br><br>
+-->
+
+```css
+[999@archlinux ~]$ neofetch
+            ________
+        _jgN########Ngg_             999@archlinux
+      _N##N@@""  ""9NN##Np_          -----------------
+     d###P            N####p         Username: y9su
+     "^^"              T####         Alias: y9su, yasu
+                       d###P         Discord ID: 869395298626187324
+                    _g###@F          Website: y9suland.com
+                 _gN##@P             
+               gN###F"               999@archlinux
+              d###F                  -----------------
+             0###F                   Frontend: 2/10 💻
+             0###F                   Backend: 3/1O 👩🏼‍💻
+             0###F                   Python: 7/10 🐍
+             "NN@'                   FreeBASIC: 1/10 🐎
+
+              ___
+             q###r
+              ""                     Info: Self taught python developer (Basically only know python)
+
+```
+
 <p align="center">
-	<b>Languages & Frameworks</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
-	<br><br>
-	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=y9su&theme=dark&hide_border=true">
+	<img src="https://lanyard.cnrad.dev/api/869395298626187324?hideTimestamp=true&idleMessage=999&hideBadges=true"/>
+<!-- 	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=y9su&theme=dark&hide_border=true">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=y9su&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y9su&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-  <br>
-  
-  <img src="https://api.visitorbadge.io/api/visitors?path=y9su&label=page%20visits&labelColor=%23697689&countColor=%23d9e3f0&style=plastic"/>
-  
-  
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y9su&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
 </p>
-
-
-
-
