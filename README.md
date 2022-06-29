@@ -35,5 +35,5 @@ credit to KanekiWeb for making this, I do not take credit at all
 	<img src="https://github-readme-stats.vercel.app/api?username=y9su&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y9su&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
-</p>
-##### Currently working on: **Abyss**
+<p align="center">
+	<h4>Currently working on: <ins>Abyss</ins></h4>
