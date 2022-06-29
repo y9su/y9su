@@ -36,4 +36,4 @@ credit to KanekiWeb for making this, I do not take credit at all
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y9su&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
 <p align="center">
-	<h4>Currently working on: <ins>Abyss</ins></h4>
+	<h4>Currently working on: <ins>Abyss, Yasu API</ins></h4>
