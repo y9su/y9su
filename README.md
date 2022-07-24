@@ -12,7 +12,7 @@ credit to KanekiWeb for making this, I do not take credit at all
      d###P            N####p         Username: y9su
      "^^"              T####         Alias: y9su, yasu
                        d###P         Discord ID: 869395298626187324
-                    _g####F          Website: y9suland.com
+                    _g####F          Website: ayo.so/yasu
                  _gN###P             
                gN###F"               999@archlinux
               d###F                  -----------------
